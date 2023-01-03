@@ -1,0 +1,32 @@
+E:\RND\OutlookAddIns\SajjuCode.OutlookAddIns\bin\Debug\SajjuCode.OutlookAddIns.dll
+E:\RND\OutlookAddIns\SajjuCode.OutlookAddIns\bin\Debug\SajjuCode.OutlookAddIns.pdb
+E:\RND\OutlookAddIns\SajjuCode.OutlookAddIns\bin\Debug\SajjuCode.OutlookAddIns.dll.manifest
+E:\RND\OutlookAddIns\SajjuCode.OutlookAddIns\bin\Debug\SajjuCode.OutlookAddIns.vsto
+E:\RND\OutlookAddIns\SajjuCode.OutlookAddIns\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\RND\OutlookAddIns\SajjuCode.OutlookAddIns\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+E:\RND\OutlookAddIns\SajjuCode.OutlookAddIns\obj\Debug\SajjuCode.OutlookAddIns.myRibbon.resources
+E:\RND\OutlookAddIns\SajjuCode.OutlookAddIns\obj\Debug\SajjuCode.OutlookAddIns.Properties.Resources.resources
+E:\RND\OutlookAddIns\SajjuCode.OutlookAddIns\obj\Debug\SajjuCode.OutlookAddIns.csproj.GenerateResource.cache
+E:\RND\OutlookAddIns\SajjuCode.OutlookAddIns\obj\Debug\SajjuCode.OutlookAddIns.csproj.CoreCompileInputs.cache
+E:\RND\OutlookAddIns\SajjuCode.OutlookAddIns\obj\Debug\SajjuCode.OutlookAddIns.csproj.CopyComplete
+E:\RND\OutlookAddIns\SajjuCode.OutlookAddIns\obj\Debug\SajjuCode.OutlookAddIns.dll
+E:\RND\OutlookAddIns\SajjuCode.OutlookAddIns\obj\Debug\SajjuCode.OutlookAddIns.pdb
+E:\RND\OutlookAddIns\SajjuCode.OutlookAddIns\obj\Debug\SajjuCode.OutlookAddIns.csproj.AssemblyReference.cache
+E:\RND\OutlookAddIns\SajjuCode.OutlookAddIns\obj\Debug\SajjuCode.OutlookAddIns.frmCategory.resources
+E:\RND\OutlookAddIns\SajjuCode.OutlookAddIns\obj\Debug\SajjuCode.OutlookAddIns.frmSettings.resources
+E:\UW\2022\outlook_addin\Source\Outlook Add-in 1_0_6_24 source code (ultima versione Sajjad)\SajjuCode.OutlookAddIns\bin\Debug\SajjuCode.OutlookAddIns.dll
+E:\UW\2022\outlook_addin\Source\Outlook Add-in 1_0_6_24 source code (ultima versione Sajjad)\SajjuCode.OutlookAddIns\bin\Debug\SajjuCode.OutlookAddIns.pdb
+E:\UW\2022\outlook_addin\Source\Outlook Add-in 1_0_6_24 source code (ultima versione Sajjad)\SajjuCode.OutlookAddIns\bin\Debug\SajjuCode.OutlookAddIns.dll.manifest
+E:\UW\2022\outlook_addin\Source\Outlook Add-in 1_0_6_24 source code (ultima versione Sajjad)\SajjuCode.OutlookAddIns\bin\Debug\SajjuCode.OutlookAddIns.vsto
+E:\UW\2022\outlook_addin\Source\Outlook Add-in 1_0_6_24 source code (ultima versione Sajjad)\SajjuCode.OutlookAddIns\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\UW\2022\outlook_addin\Source\Outlook Add-in 1_0_6_24 source code (ultima versione Sajjad)\SajjuCode.OutlookAddIns\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+E:\UW\2022\outlook_addin\Source\Outlook Add-in 1_0_6_24 source code (ultima versione Sajjad)\SajjuCode.OutlookAddIns\obj\Debug\SajjuCode.OutlookAddIns.csprojAssemblyReference.cache
+E:\UW\2022\outlook_addin\Source\Outlook Add-in 1_0_6_24 source code (ultima versione Sajjad)\SajjuCode.OutlookAddIns\obj\Debug\SajjuCode.OutlookAddIns.frmCategory.resources
+E:\UW\2022\outlook_addin\Source\Outlook Add-in 1_0_6_24 source code (ultima versione Sajjad)\SajjuCode.OutlookAddIns\obj\Debug\SajjuCode.OutlookAddIns.frmSettings.resources
+E:\UW\2022\outlook_addin\Source\Outlook Add-in 1_0_6_24 source code (ultima versione Sajjad)\SajjuCode.OutlookAddIns\obj\Debug\SajjuCode.OutlookAddIns.myRibbon.resources
+E:\UW\2022\outlook_addin\Source\Outlook Add-in 1_0_6_24 source code (ultima versione Sajjad)\SajjuCode.OutlookAddIns\obj\Debug\SajjuCode.OutlookAddIns.Properties.Resources.resources
+E:\UW\2022\outlook_addin\Source\Outlook Add-in 1_0_6_24 source code (ultima versione Sajjad)\SajjuCode.OutlookAddIns\obj\Debug\SajjuCode.OutlookAddIns.csproj.GenerateResource.cache
+E:\UW\2022\outlook_addin\Source\Outlook Add-in 1_0_6_24 source code (ultima versione Sajjad)\SajjuCode.OutlookAddIns\obj\Debug\SajjuCode.OutlookAddIns.csproj.CoreCompileInputs.cache
+E:\UW\2022\outlook_addin\Source\Outlook Add-in 1_0_6_24 source code (ultima versione Sajjad)\SajjuCode.OutlookAddIns\obj\Debug\SajjuCode.OutlookAddIns.csproj.CopyComplete
+E:\UW\2022\outlook_addin\Source\Outlook Add-in 1_0_6_24 source code (ultima versione Sajjad)\SajjuCode.OutlookAddIns\obj\Debug\SajjuCode.OutlookAddIns.dll
+E:\UW\2022\outlook_addin\Source\Outlook Add-in 1_0_6_24 source code (ultima versione Sajjad)\SajjuCode.OutlookAddIns\obj\Debug\SajjuCode.OutlookAddIns.pdb

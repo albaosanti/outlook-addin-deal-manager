@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="Ribbon_Load">
+  <ribbon>
+    <tabs>
+      <tab idMso="TabAddIns" label="Deal Manager">
+      <!--<tab idMso="TabCreate" visible="false" />
+      <tab id="CustomTab" label="Deal Manager" visible="false" >-->
+        <group id="ContentGroup" label="Deals">
+          <!--<button id="cmdCurrentDeal" label="Current Deals" onAction="OnShowCategoryClick"  />-->
+          <!--<button id="cmdDeals" label="Offerte (Deals)" onAction="OncmdDealsClick" imageMso="TableExcelSpreadsheetInsert"  />-->
+        </group>
+        <group id="nwtSetupContentGroup" >
+          <button id="cmdSettings" label="Impostazioni" onAction="OncmdSettingsClick" size="large" imageMso="OutlookGears"  />
+        </group>
+      </tab>
+    </tabs>
+
+  </ribbon>
+  <contextMenus>
+    <contextMenu idMso="ContextMenuMailItem">
+      <dynamicMenu  id="nwtDeals" enabled="true" label="Offerte" getContent="GetMenuContent"   />
+      <!--<button id="cmdContRemoveDeals" label="Rimuovi offerte (Clear)" onAction="OncmdContRemoveDeals"/>-->
+      <button id="cmdContCreateDeal" label="Crea nuova offerta" onAction="OncmdCreateDealsClick"  />
+      
+      <!--<button id="MyContextMenuMailItem1"
+          label="Assign Deal1"
+          onAction="OnMyButtonClick"/>-->
+      <!--<button id="MyContextMenuMailItem1"
+          label="Un-Assign Deal"
+          onAction="OnMyButtonClick"/>-->
+    </contextMenu>
+
+    <!--<contextMenu idMso="ContextMenuTaskItem">
+      <dynamicMenu  id="nwtDeals2" enabled="true" label="Offerte" getContent="GetMenuContent"   />
+      -->
+    <!--<button id="cmdContRemoveDeals" label="Rimuovi offerte" onAction="OncmdContRemoveDeals"/>-->
+    <!--
+      <button id="cmdContCreateDeal2" label="Crea nuova offerta" onAction="OncmdCreateDealsClick"  />
+    </contextMenu>-->
+    <contextMenu idMso="ContextMenuFlaggedMailItem">
+      <dynamicMenu  id="nwtDeals22" enabled="true" label="Offerte" getContent="GetMenuContent"   />
+      <!--<button id="cmdContRemoveDeals" label="Rimuovi offerte" onAction="OncmdContRemoveDeals"/>-->
+      <button id="cmdContCreateDeal22" label="Crea nuova offerta" onAction="OncmdCreateDealsClick"  />
+    </contextMenu>
+  </contextMenus>
+</customUI>
+
+
